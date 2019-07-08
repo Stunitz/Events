@@ -1,0 +1,6 @@
+<application>
+  <component name="HttpConfigurable">
+    <option name="PROXY_HOST" value="proxy.cinq.com.br/ " />
+    <option name="PROXY_PORT" value="7000" />
+  </component>
+</application>
